@@ -1,4 +1,4 @@
-# Desafio Classificador de  Nivel de Heroi
+# Desafio Calculadora de Partidas Ranqueadas
 
 - Utilizei o comando `node index.js` para rodar o projeto, basta abrir o terminal com a pasta
 do repositório selecionada e usar o comando.
